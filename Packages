@@ -259,3 +259,22 @@ Section: Tweaks
 Description: Properly toggle Wi-Fi and Bluetooth from CC (iOS 11+)
 Author: PoomSmart
 Name: CC On & Off
+
+Package: com.spark.snowboard
+Version: 1.2.87~Beta4
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 4292
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/1.2.87~Beta4.deb
+Size: 1434498
+MD5sum: 0380f4854395c54800d92d9d841b5a93
+SHA1: b99d7d7a35b0da601aa8a4ca1d6441aabaf74aac
+SHA256: eeb7182bdc532751167e893f2127a016889e0e2207472a8fa4a2a503cfb5554b
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard
