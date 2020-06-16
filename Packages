@@ -37,28 +37,6 @@ Icon: file:///Library/PreferenceBundles/YouTubeTools.bundle/Icon29x29.png
 Name: YouTube Tools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.matchstic.reprovision
-Version: 0.5.4~EOL
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/com.matchstic.reprovision_0.5.4~EOL_iphoneos-arm.deb
-Size: 13371730
-MD5sum: 7a0f8364d31a9311ed6372fb34c56749
-SHA1: 908976a9c45fb6d764e21b408575539c21792ca8
-SHA256: 0853901a40ac9b3c3ed9769f38cbe8aca653ca03119a9cde15574d69f1a12f6a
-Section: System
-Priority: optional
-Homepage: https://github.com/Matchstic/Extender-Installer
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Name: ReProvision
-
 Package: com.nami.noliveclock
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
