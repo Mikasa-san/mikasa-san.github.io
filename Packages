@@ -54,16 +54,16 @@ Author: Nami
 Name: NoLiveClock
 
 Package: com.tigisoftware.filza
-Version: 3.7.4-12
+Version: 3.7.7-4
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
-Installed-Size: 30704
+Installed-Size: 31980
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/Filza3.7.4.deb
-Size: 12722662
-MD5sum: e401ba8e6f0191dc36f9cb3da59ff4d9
-SHA1: 5049c82569d52eefcc0ffb3e5dc186d78af0cd37
-SHA256: 479d7f8bc46b8ea211e242edc6bdc71f26c647d399d84fe702061480dfe7cbcc
+Filename: ./debs/Filza3.7.7.deb
+Size: 13172474
+MD5sum: 1e953fa6a7f6f314e334ac61c9cff817
+SHA1: 1712be45a4a0d1a865048a36070aa66ef5cde79c
+SHA256: e10d33639c67702bef6b32568a0b9a81c9f3b7d5d7ddc8d78df11f25f12ead44
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
