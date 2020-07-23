@@ -5,7 +5,7 @@ Maintainer: LeroyB_ <admin@bonventre.ch>
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
-Filename: ./debs/OnlySmallVolHUD.deb
+Filename: debs/OnlySmallVolHUD.deb
 Size: 2168
 MD5sum: 033e2c66b07d076a495007e2b96384ff
 SHA1: e6a0dc848b5b7b19a84b93b0275c134faa87a0d5
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 247
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Filename: ./debs/YouTubeTools.deb
+Filename: debs/YouTubeTools.deb
 Size: 31944
 MD5sum: f76488d473445bdd447c5c6c1fbc235c
 SHA1: d384c59acc265af8a9f9b022ca2752e92f964b25
@@ -37,13 +37,29 @@ Icon: file:///Library/PreferenceBundles/YouTubeTools.bundle/Icon29x29.png
 Name: YouTube Tools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.mikasa.wowza
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Mikasa
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Wowza.deb
+Size: 3180
+MD5sum: 7324605c5cbbcc2570b43e5093da3a20
+SHA1: 305f0931884197d7479fbae054114cbc20a139f1
+SHA256: 1597cbc2fc6c660e41909450ebd4724a234fad835fdcd9adb68adf364ecb6c9a
+Section: Tweaks
+Description: Enable Apple Battery Icon
+Author: Mikasa
+Name: Wowza
+
 Package: com.nami.noliveclock
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: Nami
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/NoLiveClock.deb
+Filename: debs/NoLiveClock.deb
 Size: 3364
 MD5sum: d6cd3b09e6b0a9950e6ea9b6ba6da3fb
 SHA1: f80af4058b8dec0e1d30523780af7aeca356a67c
@@ -59,7 +75,7 @@ Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Installed-Size: 30704
 Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/Filza3.7.4.deb
+Filename: debs/Filza3.7.4.deb
 Size: 12722662
 MD5sum: e401ba8e6f0191dc36f9cb3da59ff4d9
 SHA1: 5049c82569d52eefcc0ffb3e5dc186d78af0cd37
@@ -68,3 +84,4 @@ Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Author: TIGI Software
 Name: Filza File Manager
+
