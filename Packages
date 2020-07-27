@@ -15,6 +15,24 @@ Description: Only show the small version of the iOS >= 13 Volume HUD. Only teste
 Author: LeroyB_ <admin@bonventre.ch>
 Name: OnlySmallVolHUD
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.12~mikasa
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/appstoreplus.deb
+Size: 312776
+MD5sum: e0eeebc672e3c2b95d1a0c6b5c1993d8
+SHA1: 7a751a091064a46db569ae02fddfed72ffb4b6c9
+SHA256: 8027a5415128ad775359acb6461ceb85e253229479483eeecf0186d21f21e1cc
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
 Package: com.justinpetkovic.youtubetools
 Version: 4.0
 Architecture: iphoneos-arm
