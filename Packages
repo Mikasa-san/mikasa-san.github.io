@@ -1,0 +1,99 @@
+Package: com.mikasa.wowza
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Mikasa
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Wowza.deb
+Size: 3180
+MD5sum: 7324605c5cbbcc2570b43e5093da3a20
+SHA1: 305f0931884197d7479fbae054114cbc20a139f1
+SHA256: 1597cbc2fc6c660e41909450ebd4724a234fad835fdcd9adb68adf364ecb6c9a
+Section: Tweaks
+Description: Enable Apple Battery Icon
+Author: Mikasa
+Name: Wowza
+
+Package: com.nami.clashrbar
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: Nami
+Installed-Size: 60
+Depends: mobilesubstrate
+Filename: ./debs/com.nami.clashrbar_0.0.1-6+debug.deb
+Size: 3466
+MD5sum: 13c8edc507b27e791660b7e4761c006b
+SHA1: dffc93b927a1a900a83dbc0254d3b04556f4a3b1
+SHA256: 3df0ef848697c5375a5c9aadc4023efee89cfd171a20518ed861191fb513c544
+Section: Tweaks
+Author: Nami
+Name: Royale Bar
+
+Package: com.nami.noliveclock
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Nami
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/NoLiveClock.deb
+Size: 3364
+MD5sum: d6cd3b09e6b0a9950e6ea9b6ba6da3fb
+SHA1: f80af4058b8dec0e1d30523780af7aeca356a67c
+SHA256: c39df642d7c9acf0d97d95ba8b2154ff5a20f34f86e52de87a0ddcf1b22f4883
+Section: Tweaks
+Description: Disable Live Clock
+Author: Nami
+Name: NoLiveClock
+
+Package: com.odysseyteam.taurine
+Version: 1.1.3-1
+Architecture: iphoneos-arm
+Maintainer: zhuowei <zhuowei@worthdoingbadly.com>
+Installed-Size: 37840
+Depends: firmware (>=14.0)
+Filename: ./debs/Taurine.deb
+Size: 30789500
+MD5sum: 1e110663b0590bf4aecc190985b3b766
+SHA1: ae1cb4c0e21110e1a06188c299dd7b971036453a
+SHA256: 7b75d0d354152d3fd9164c6a10c67b4acb1882d49adc6507f9a233aef7bbdd4b
+Section: Utilities
+Homepage: https://taurine.app/
+Description: Taurine resigned with Linus Henze's CoreTrust bypass so it doesn't expire
+Author: Odyssey Team
+Name: Taurine
+Tags: compatible_min::ios14.0
+
+Package: com.tigisoftware.filza64bit
+Version: 3.9.0-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 21860
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debs/com.tigisoftware.filza64bit_3.9.0-2.deb
+Size: 8476070
+MD5sum: b5c0faa9d5650c370640adf3097b9a23
+SHA1: c64f82dfdac3a6e6233553852602bbb428137697
+SHA256: 624206dcc388e5e70f783fc066ad4713a102ade40f6205d33ff0dae951092982
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+
+Package: org.coolstar.sileo
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.4_iphoneos-arm.deb
+Size: 2228160
+MD5sum: 365e947b4cfeb701ee4e8d9465096abc
+SHA1: 6d4760230826e068b6824cdea782bfa784cbf7b7
+SHA256: 368f39f7c3912beb9e1e307bc0f025ccf4e4e8ad9fe59fb16098e5718e574a23
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+

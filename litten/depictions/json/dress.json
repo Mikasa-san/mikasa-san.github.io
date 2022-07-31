@@ -1,0 +1,149 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"https://mikasa-san.github.io/litten/depictions/assets/dress-banner.png",
+	"tintColor":"#c9b6ff",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Details",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Dress up your lockscreen\n\nCustomize your lockscreen with one tweak instead of needing multiple",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://mikasa-san.github.io/litten/depictions/assets/dress-1.png"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://mikasa-san.github.io/litten/depictions/assets/dress-2.png"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://mikasa-san.github.io/litten/depictions/assets/dress-3.png"
+						}
+					]
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Information"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"May 17, 2022",
+					"title":"Updated"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Free Package",
+					"title":"License"
+				}
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+				{
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta8",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Add support for iOS 12.2",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta7",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Fix folder theming on A12",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta6",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Add support for modern dock themes (iPhone only for now)",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta5",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Fix dock reflections on A12",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta4",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Add support for iOS 12 and A12",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta3",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Clock Icon now changes properly on theme switch\n2. Add support for extensions to Anemone",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta2",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Initial support for theming clock icon\n2. Add API's that will be used in a later beta and the extension pack",
+					"useSpacing":true
+				},
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"3.0~beta1",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Initial Public Beta Release!",
+					"useSpacing":true
+				}
+			]
+		}
+	]
+}
