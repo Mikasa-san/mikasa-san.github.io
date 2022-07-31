@@ -79,21 +79,3 @@ Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
 Author: TIGI Software
 Name: Filza File Manager 64-bit
-
-Package: org.coolstar.sileo
-Version: 2.4
-Architecture: iphoneos-arm
-Maintainer: Hayden Seay <me@diatr.us>
-Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.4_iphoneos-arm.deb
-Size: 2228160
-MD5sum: 365e947b4cfeb701ee4e8d9465096abc
-SHA1: 6d4760230826e068b6824cdea782bfa784cbf7b7
-SHA256: 368f39f7c3912beb9e1e307bc0f025ccf4e4e8ad9fe59fb16098e5718e574a23
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: Sileo Team <getsileoapp@gmail.com>
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
