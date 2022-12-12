@@ -10,10 +10,10 @@ Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
 Filename: ./com.ex.substitute_2.3.1-arm64_iphoneos-arm.deb
-Size: 5787688
-MD5sum: 28c64d32149bd03f6fce7ed641a243c5
-SHA1: 47ce184c0d7af73da1e4f37911ccaac239c40469
-SHA256: de04e9c6cdad51f2beb170029937c988d33d64c4abc6c03582b7dc62c70f1bd0
+Size: 4913544
+MD5sum: 233cb6b00c519761e9a28bac62134f5c
+SHA1: 83eb0933ef25b3dc61d2edab4ec77459a242a856
+SHA256: 3c7b3c0866f7a986e20653434880d11e2f2a7b195c352bc065487ad2699dca18
 Section: System
 Priority: optional
 Description: Substrate substitute for code substitution
@@ -27,10 +27,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 596
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./com.rpetrich.rocketbootstrap_1.1.0-palera1n_iphoneos-arm.deb
-Size: 16734
-MD5sum: 71337d81c478e3855ba56fdedcb17423
-SHA1: dd96e137049abf093f83e64e94c15a9b423fa23b
-SHA256: 719712cc3ea5fd0d0be3dfb17f0241a53282e4f6d5abad77f9e9d71c56582eae
+Size: 42322
+MD5sum: 01d7989b3d301da168585696e21e4bab
+SHA1: 541495dff8458178936d4533956ae817ca5d19ab
+SHA256: b6a9b7ae87385f8331815bbbaf9519feb32a8d656086f00e71360fc7e69ec87c
 Section: Tweaks
 Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/
 Description: Support library allowing tweaks to communicate with sandboxed processes
