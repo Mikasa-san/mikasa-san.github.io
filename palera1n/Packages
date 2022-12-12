@@ -1,0 +1,43 @@
+Package: com.ex.substitute
+Version: 2.3.1-arm64
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner
+Installed-Size: 27456
+Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
+Depends: firmware (>= 8.0), cy+cpu.arm64, com.saurik.substrate.safemode (>=0.9.6005), uikittools (>=1.1.13-4), darwintools
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitute, mobilesubstrate, ws.hbang.stopcrashingpls (<<1.0.2)
+Breaks: com.saurik.substrate.safemode (<<0.9.6004)
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
+Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
+Filename: ./com.ex.substitute_2.3.1-arm64_iphoneos-arm.deb
+Size: 5787688
+MD5sum: 28c64d32149bd03f6fce7ed641a243c5
+SHA1: 47ce184c0d7af73da1e4f37911ccaac239c40469
+SHA256: de04e9c6cdad51f2beb170029937c988d33d64c4abc6c03582b7dc62c70f1bd0
+Section: System
+Priority: optional
+Description: Substrate substitute for code substitution
+Author: comex <comexk+da@gmail.com>
+Name: Substitute
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.1.0-palera1n
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./com.rpetrich.rocketbootstrap_1.1.0-palera1n_iphoneos-arm.deb
+Size: 16734
+MD5sum: 71337d81c478e3855ba56fdedcb17423
+SHA1: dd96e137049abf093f83e64e94c15a9b423fa23b
+SHA256: 719712cc3ea5fd0d0be3dfb17f0241a53282e4f6d5abad77f9e9d71c56582eae
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
