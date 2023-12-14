@@ -1,8 +1,0 @@
-Origin: Mikasa
-Label: CoverSileo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Distribution of Unix Software for iOS

@@ -1,0 +1,45 @@
+{
+	"RepositoryName": "Mikasa",
+	"RepositoryDescription": "by Mikasa",
+	"RepositoryAuthor": "Mikasa",
+	"RepositoryIcon": "https://mikasa-san.github.io/misaka/assets/Icon.png",
+	"RepositoryWebsite": "https://mikasa-san.github.io/misaka",
+	"Default": {
+		"HeaderImage": "",
+		"Author": {
+			"Label": "Mikasa",
+			"Links": [
+				{
+					"Label": "Twitter",
+					"Link": "https://twitter.com/mikasa25"
+				}
+			]
+		},
+		"ViewCount": true
+	},
+	"RepositoryContents": [
+		{
+			"Name": "SpringTools",
+			"Description": "•ᴗ",
+			"Category": "SpringBoard",
+			"Caption": "SpringTools allows you to Enable/Disable and Edit functions of SpringBoard.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": ["20G5026e"]
+			},
+			"Icon": "",
+			"Screenshot": ["https://mikasa-san.github.io/misaka/assets/SpringTools.jpeg"],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://mikasa-san.github.io/misaka/tweaks/SpringTools.misaka,
+					"Description": "SpringTools allows you to Enable/Disable and Edit functions of SpringBoard."
+				}
+			],
+			"PackageID": "com.mikasa.SpringTools"
+		}
+	]
+}
