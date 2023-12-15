@@ -35,7 +35,7 @@
 			"Releases": [
 				{
 					"Version": "1.0",
-					"Package": "https://mikasa-san.github.io/misaka/tweaks/SpringTools.misaka,
+					"Package": "https://mikasa-san.github.io/misaka/tweaks/SpringTools.misaka",
 					"Description": "SpringTools allows you to Enable/Disable and Edit functions of SpringBoard."
 				}
 			],
