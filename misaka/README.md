@@ -31,10 +31,15 @@ All references follow **APA 7th Edition** format.
 
 ---
 
-## 📸 Classroom Example
+## 📸 Classroom Examples
 
-![HCT Classroom with Idle PCs](https://mikasa-san.github.io/misaka/1.png)
-*Figure: Computers left on in an empty HCT lab before automation.*
+<p align="center">
+  <img src="https://mikasa-san.github.io/misaka/1.png" alt="HCT Lab with Idle PCs" width="45%">
+  <img src="https://mikasa-san.github.io/misaka/2.png" alt="Classroom Servers Setup" width="45%">
+  <br>
+  <em>Left: Idle computers left on in an empty lab. Right: Three servers running in one classroom, increasing carbon footprint.</em>
+</p>
+
 
 ---
 
