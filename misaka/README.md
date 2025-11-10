@@ -31,6 +31,13 @@ All references follow **APA 7th Edition** format.
 
 ---
 
+## 📸 Classroom Example
+
+![HCT Classroom with Idle PCs](https://mikasa-san.github.io/misaka/1.png)
+*Figure: Computers left on in an empty HCT lab before automation.*
+
+---
+
 ## 🧾 Notes
 
 - These references support the research and data in the D1 and D2 reports.  
